@@ -13,6 +13,7 @@ A minimalist React app showcasing a personal digital business card with a profil
 - About and Interests sections
 - Styled with CSS Modules
 - Fully accessible and SEO-friendly
+- Installable as a Progressive Web App (PWA)
 
 ## Tech
 

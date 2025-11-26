@@ -1,5 +1,26 @@
 # Digital Business Card
 
-A responsive React single-page digital business card.
-Includes personal info, interests, and contact links (email & LinkedIn).
-Built with React, Vite and CSS modules.
+A minimalist React app showcasing a personal digital business card with a profile photo, about section, interests, and contact links (Email & LinkedIn).
+
+## Demo
+
+🌐 [Live site on Netlify](https://ana-marija-draskovic.netlify.app/)
+
+## Features
+
+- Responsive layout
+- Contact buttons (Email & LinkedIn)
+- About and Interests sections
+- Styled with CSS Modules
+- Fully accessible and SEO-friendly
+
+## Tech
+
+- React
+- Vite
+- CSS Modules
+
+## 🚀 Performance
+
+Optimized for best practices and accessibility.  
+Scored **100** in all Lighthouse categories.

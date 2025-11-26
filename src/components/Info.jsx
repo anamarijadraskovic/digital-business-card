@@ -21,7 +21,7 @@ export function Info() {
           aria-label="Send me an email"
           className={styles.linkBtn}
         >
-          <img src={EmailIcon} alt="Email" draggable={false} />
+          <img src={EmailIcon} alt="" draggable={false} />
           Email
         </a>
         <a

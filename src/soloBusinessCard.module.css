@@ -80,6 +80,7 @@
   min-width: 7rem;
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
+  font-weight: 500;
   color: #374151;
   text-decoration: none;
   background-color: white;
@@ -88,5 +89,5 @@
 
 .infoContainer .linkBtn.accent {
   color: white;
-  background-color: #5093e2;
+  background-color: #1a5aa2;
 }

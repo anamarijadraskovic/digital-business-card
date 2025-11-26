@@ -17,7 +17,7 @@ export function Info() {
       </div>
       <div className={styles.businessBtnContainer}>
         <a
-          href="mailto:youremail@example.com"
+          href="mailto:ana.marija.draskovic007@gmail.com"
           aria-label="Send me an email"
           className={styles.linkBtn}
         >

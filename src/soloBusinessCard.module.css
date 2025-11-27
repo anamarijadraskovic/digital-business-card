@@ -1,7 +1,8 @@
 .soloBusinessCardContainer,
 .businessFooter,
 .businessBtnContainer,
-.soloBusinessCardInnerContainer .infoContainer {
+.soloBusinessCardInnerContainer .infoContainer,
+.infoContainer .linkBtn {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,6 +10,7 @@
 
 .soloBusinessCardContainer {
   flex-direction: column;
+  min-height: 100vh;
   padding: 1rem;
   font-family: Inter, sans-serif;
   color: #dcdcdc;
@@ -75,9 +77,6 @@
 }
 
 .infoContainer .linkBtn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   gap: 0.5rem;
   min-width: 7rem;
   padding: 0.5rem 1rem;
